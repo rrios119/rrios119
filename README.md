@@ -1,7 +1,6 @@
 # <p align="center">Welcome <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Robert!</p>
 
 I am a highly motivated individual with a Bachelor of Science in Computer Science from the University of Houston-Downtown. I have a strong passion for software development and enjoy working on various projects that challenge me and allow me to expand my skills. I have experience with several programming languages including Python, C++, and JavaScript, as well as web technologies such as HTML, CSS, Vite, and tailwind. I am also proficient in working with backend technologies like Supabase. In addition to my technical skills, I have a keen eye for design and enjoy using tools like Figma to create visually appealing and user-friendly interfaces. I believe that combining functionality with aesthetics is essential in creating successful software applications. I am a quick learner and always strive to stay up-to-date with the latest industry trends and technologies. I am passionate about collaborating with teams to develop innovative solutions and contribute to the success of projects. Overall, I am a dedicated and enthusiastic individual with a strong foundation in computer science and a wide range of technical skills. I am eager to apply my knowledge and continue to grow as a software developer.
-<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"/> 
 
 ## ⚙️ My skills
 
