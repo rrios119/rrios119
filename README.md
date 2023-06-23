@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
@@ -37,5 +37,7 @@
 <a href="mailto:riosrobert23@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/riosrobert23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<a href="https://portfolio-rrios119.vercel.app/">
+<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a>
 -------
