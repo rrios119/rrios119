@@ -7,6 +7,7 @@ I am a highly motivated individual with a Bachelor of Science in Computer Scienc
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: Alumni of `University of Houston-Downtown` with a `Bachelors of Science in Computer Science`.
 - :thinking: I’m currently open for a new `job opportunities`, this is my [Portfolio](https://portfolio-rrios119.vercel.app/).
+- :world_map: Located in Houston, TX
   
 ## ⚙️ My skills
 
