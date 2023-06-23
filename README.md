@@ -5,7 +5,7 @@ I am a highly motivated individual with a Bachelor of Science in Computer Scienc
 - :muscle: Currently working on a [Korean Lyric Web App](https://github.com/rrios119/Korean-Lyric-Web-App).
 - :nerd_face: I'm learning to improve my full-stack skills.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: Alumni of University of Houston-Downtown with a Bachelors of Science in Computer Science.
+- :student: Alumni of `University of Houston-Downtown` with a `Bachelors of Science in Computer Science`.
 - :thinking: I’m currently open for a new `job opportunities`, this is my [Portfolio](https://portfolio-rrios119.vercel.app/).
   
 ## ⚙️ My skills
