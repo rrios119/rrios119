@@ -40,4 +40,3 @@
 <a href="https://portfolio-rrios119.vercel.app/">
 <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
--------
