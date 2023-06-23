@@ -43,6 +43,6 @@ I am a highly motivated individual with a Bachelor of Science in Computer Scienc
 <a href="mailto:riosrobert23@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/riosrobert23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://portfolio-rrios119.vercel.app/" target="_blank">
+<a href="https://portfolio-rrios119.vercel.app/" onclick="window.open(this.href,'_blank');return false;">
 <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
