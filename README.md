@@ -25,7 +25,7 @@
 ## Contact me
 
 <a href="mailto:riosrobert23@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="eMail" src="https://img.shields.io/badge/riosrobert23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 -------
