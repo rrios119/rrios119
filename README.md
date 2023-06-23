@@ -2,6 +2,12 @@
 
 I am a highly motivated individual with a Bachelor of Science in Computer Science from the University of Houston-Downtown. I have a strong passion for software development and enjoy working on various projects that challenge me and allow me to expand my skills. I have experience with several programming languages including Python, C++, and JavaScript, as well as web technologies such as HTML, CSS, Vite, and tailwind. I am also proficient in working with backend technologies like Supabase. In addition to my technical skills, I have a keen eye for design and enjoy using tools like Figma to create visually appealing and user-friendly interfaces. I believe that combining functionality with aesthetics is essential in creating successful software applications. I am a quick learner and always strive to stay up-to-date with the latest industry trends and technologies. I am passionate about collaborating with teams to develop innovative solutions and contribute to the success of projects. Overall, I am a dedicated and enthusiastic individual with a strong foundation in computer science and a wide range of technical skills. I am eager to apply my knowledge and continue to grow as a software developer.
 
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: Alumni of University of Houston-Downtown with a Bachelors of Science in Computer Science.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunities`, this is [Portfolio](https://portfolio-rrios119.vercel.app/).
+
 ## ⚙️ My skills
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
