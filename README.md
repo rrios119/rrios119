@@ -47,3 +47,6 @@ I am a highly motivated individual with a Bachelor of Science in Computer Scienc
 <a href="https://portfolio-rrios119.vercel.app/">
 <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
+<a href="https://www.linkedin.com/in/robertrios2000/">
+  <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
